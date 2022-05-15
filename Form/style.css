@@ -124,7 +124,7 @@ input {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 0 0;
-	color: #fff;
+	color: #FFFFFF;
 	position: relative;
 	left: -100%;
 	height: 100%;
@@ -144,7 +144,7 @@ input {
 	width: 50%;
 }
 
-.overlay-side {
+.overlay-right {
 	right: 0;
 }
 
